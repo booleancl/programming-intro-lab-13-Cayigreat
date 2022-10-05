@@ -9,3 +9,4 @@ CREATE TABLE cities(
     population INTEGER,
     area INTEGER,
     PRIMARY KEY(id)
+);
