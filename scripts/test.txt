@@ -1,0 +1,5 @@
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/00-createBigCitiesDataBase.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/01-createCitiesTable.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/02-seedCitiesTable.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/data/ciudades.csv
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/data/escritores.csv
