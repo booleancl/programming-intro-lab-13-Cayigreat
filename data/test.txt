@@ -1,0 +1,2 @@
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/00-createBigCitiesDataBase.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/12-createWritersTable.sql
