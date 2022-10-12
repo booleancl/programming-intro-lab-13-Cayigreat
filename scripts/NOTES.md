@@ -79,3 +79,22 @@ ORDER BY density DESC;
 SELECT name, population/area AS density
 FROM cities
 ORDER by density ASC;
+'''
+
+##  Contando elementos con COUNT
+
+'''
+sql
+SELECT COUNT(name)
+FROM cities
+WHERE country = 'India';
+'''
+## Limitar los resultados con **LIMIT**
+
+'''
+sql
+SELECT name, population/area AS density
+FROM cities
+ORDER BY density DESC
+LIMIT 2;
+'''
