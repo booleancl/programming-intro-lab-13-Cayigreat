@@ -3,3 +3,8 @@ C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/01-createCit
 C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/02-seedCitiesTable.sql
 C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/data/ciudades.csv
 C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/data/escritores.csv
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/03-selectNamePopulation.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/04-selectMin.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/05-selectOrder.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/14-joinTable.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/15-subQuery.sql

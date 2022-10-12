@@ -1,2 +1,6 @@
 C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/00-createBigCitiesDataBase.sql
 C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/12-createWritersTable.sql
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/data/escritores.csv
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/13-seedWritersTable.sql
+
+C:/Users/javil/intro_dev/programming-intro-lab-13-Cayigreat/scripts/17-groupByCountry.sql
